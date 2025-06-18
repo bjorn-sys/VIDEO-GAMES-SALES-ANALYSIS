@@ -48,209 +48,209 @@ This project presents an in-depth analysis of video game sales across various pl
 
 
 
-> 🎯 These years experienced a boom in game development and platform diversity, likely driven by advancements in gaming technology and growing global demand.
+* > 🎯 These years experienced a boom in game development and platform diversity, likely driven by advancements in gaming technology and growing global demand.
 
 
 
 
 ---
 
-🎮 Game Genre Distribution
+# 🎮 Game Genre Distribution
 
-Top Genres:
+**Top Genres:**
 
-Action: 3,251 titles
+* Action: 3,251 titles
 
-Sports: 2,304 titles
-
-
-
-> 📌 Action and Sports dominate both in production volume and popularity, indicating strong market demand and user engagement.
+* Sports: 2,304 titles
 
 
 
-
----
-
-📊 Top 5 Years of Game Releases by Genre
-
-Action and Sports games consistently topped yearly genre release charts.
-
-These genres have maintained industry focus and player interest across time.
-
-
-
----
-
-🌍 Global Sales by Year
-
-2008: $678.90M
-
-2009: $667.30M
-
-
-> 📌 Peak global sales align with peak game production years, indicating strong market activity.
+* > 📌 Action and Sports dominate both in production volume and popularity, indicating strong market demand and user engagement.
 
 
 
 
 ---
 
-🔝 Most Released Genre per Year
+# 📊 Top 5 Years of Game Releases by Genre
 
-Action games led in:
+* Action and Sports games consistently topped yearly genre release charts.
 
-2009
+* These genres have maintained industry focus and player interest across time.
 
-2012
 
-2015
+
+---
+
+# 🌍 Global Sales by Year
+
+* 2008: $678.90M
+
+* 2009: $667.30M
+
+
+* > 📌 Peak global sales align with peak game production years, indicating strong market activity.
 
 
 
 
 ---
 
-💰 Genre with the Highest Sales in a Single Year
+# 🔝 Most Released Genre per Year
 
-2009 (Action): $139.36M
+**Action games led in:**
 
-2008 (Action): $136.39M
+* 2009
 
-2006 (Sports): $136.16M
+* 2012
 
-
-
----
-
-🎮 Platform with Highest Global Sales
-
-PS2: $1,223.4M
-
-Xbox 360: $969.6M
-
-
-
----
-
-🏆 Genre with Highest Global Sales
-
-Action: $1,722.89M
-
-Sports: $1,309.24M
-
-Shooter: Top 3 globally
-
-
-
----
-
-🏢 Publisher with Highest Global Sales
-
-Acclaim Entertainment: $64.14M
-
-505 Games: $55.91M
-
-
-
----
-
-🥇 Best-Selling Individual Game
-
-Wii Sports: Highest global sales among all titles
-
-
-
----
-
-🌐 Sales by Genre & Region
-
-North America leads global sales
-
-Top genres: Action, Shooter, Sports
-
-
-> 📌 North America has a stronger gaming market than Europe and other regions.
+* 2015
 
 
 
 
 ---
 
-🕹️ Platform Sales by Region
+# 💰 Genre with the Highest Sales in a Single Year
 
-North America:
+* 2009 (Action): $139.36M
 
-Xbox
+* 2008 (Action): $136.39M
 
-PS2
+* 2006 (Sports): $136.16M
 
-Wii
+
+
+---
+
+# 🎮 Platform with Highest Global Sales
+
+* PS2: $1,223.4M
+
+* Xbox 360: $969.6M
+
+
+
+---
+
+# 🏆 Genre with Highest Global Sales
+
+* Action: $1,722.89M
+
+* Sports: $1,309.24M
+
+* Shooter: Top 3 globally
+
+
+
+---
+
+# 🏢 Publisher with Highest Global Sales
+
+* Acclaim Entertainment: $64.14M
+
+* 505 Games: $55.91M
+
+
+
+---
+
+# 🥇 Best-Selling Individual Game
+
+* Wii Sports: Highest global sales among all titles
+
+
+
+---
+
+# 🌐 Sales by Genre & Region
+
+* North America leads global sales
+
+* Top genres: Action, Shooter, Sports
+
+
+* > 📌 North America has a stronger gaming market than Europe and other regions.
 
 
 
 
 ---
 
-🏢 Top 20 Publishers by Number of Games
+# 🕹️ Platform Sales by Region
 
-Electronic Arts: 1,339 games
+* North America:
 
-Activision: 966 games (primarily Action)
+* Xbox
 
+* PS2
 
+* Wii
 
----
-
-🌍 Top Publishers by Global Sales
-
-Nintendo: $1,784.4M
-
-Electronic Arts: $1,093.3M
 
 
 
 ---
 
-📈 Sales Comparison Among Publishers
+# 🏢 Top 20 Publishers by Number of Games
 
-Nintendo: $815.75M
+* Electronic Arts: 1,339 games
 
-Electronic Arts: $584.22M
-
-
-
----
-
-🌎 Top Revenue by Region
-
-NA_Sales: $4,327.65M
-
-EU_Sales: $2,406.69M
+* Activision: 966 games (primarily Action)
 
 
 
 ---
 
-📌 Recommendations
+# 🌍 Top Publishers by Global Sales
+
+* Nintendo: $1,784.4M
+
+* Electronic Arts: $1,093.3M
+
+
+
+---
+
+# 📈 Sales Comparison Among Publishers
+
+* Nintendo: $815.75M
+
+* Electronic Arts: $584.22M
+
+
+
+---
+
+# 🌎 Top Revenue by Region
+
+* NA_Sales: $4,327.65M
+
+* EU_Sales: $2,406.69M
+
+
+
+---
+
+# 📌 Recommendations
 
 1. Focus on Popular Genres
 
-Publishers should continue investing in Action and Sports games. These genres consistently perform well in both production and sales.
+* Publishers should continue investing in Action and Sports games. These genres consistently perform well in both production and sales.
 
 2. Analyze High-Production Years
 
-Investigate the success drivers in 2008 and 2009 to replicate market strategies, game quality, or platform expansion tactics in upcoming launches.
+* Investigate the success drivers in 2008 and 2009 to replicate market strategies, game quality, or platform expansion tactics in upcoming launches.
 
 3. Tailor Regional Strategies
 
-Given that North America leads global sales, focus marketing and game types to suit regional preferences. Genre and platform preferences vary by region.
+* Given that North America leads global sales, focus marketing and game types to suit regional preferences. Genre and platform preferences vary by region.
 
 4. Capitalize on Platform Success
 
-Platforms like PS2, Xbox 360, and Wii show historical success. Analyze their market strategies and user engagement techniques for future platform-based planning.
+* Platforms like PS2, Xbox 360, and Wii show historical success. Analyze their market strategies and user engagement techniques for future platform-based planning.
 
 5. Encourage Genre Innovation
 
-While Action and Sports dominate, untapped potential exists in niche or underrepresented genres. Innovation here may yield unique market advantages.
+* While Action and Sports dominate, untapped potential exists in niche or underrepresented genres. Innovation here may yield unique market advantages.
 
