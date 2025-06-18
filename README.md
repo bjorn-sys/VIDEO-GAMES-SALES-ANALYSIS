@@ -1,50 +1,50 @@
 
-🎮 Video Games Sales Analysis
+# 🎮 Video Games Sales Analysis
 
-📊 Project Overview
+# 📊 Project Overview
 
 This project presents an in-depth analysis of video game sales across various platforms, regions, and genres. The primary objective is to identify trends in game production, popular genres, regional sales performance, and high-performing publishers. These insights aim to support strategic decision-making within the gaming industry.
 
 
 ---
 
-🧾 Dataset Description
+# 🧾 Dataset Description
 
-The dataset used for this analysis includes the following key columns:
+* The dataset used for this analysis includes the following key columns:
 
-Name: Title of the video game
+* Name: Title of the video game
 
-Platform: Platform on which the game was released (e.g., PS2, Xbox 360, Wii)
+* Platform: Platform on which the game was released (e.g., PS2, Xbox 360, Wii)
 
-Year: Year of release
+* Year: Year of release
 
-Genre: Game genre (e.g., Action, Sports)
+* Genre: Game genre (e.g., Action, Sports)
 
-Publisher: Game publisher
+* Publisher: Game publisher
 
-NA_Sales: Sales in North America (in millions)
+* NA_Sales: Sales in North America (in millions)
 
-EU_Sales: Sales in Europe (in millions)
+* EU_Sales: Sales in Europe (in millions)
 
-JP_Sales: Sales in Japan (in millions)
+* JP_Sales: Sales in Japan (in millions)
 
-Other_Sales: Sales in other regions (in millions)
+* Other_Sales: Sales in other regions (in millions)
 
-Global_Sales: Total global sales (in millions)
+* Global_Sales: Total global sales (in millions)
 
 
 
 ---
 
-📈 Key Insights
+# 📈 Key Insights
 
-🗓️ Game Production by Year
+# 🗓️ Game Production by Year
 
-Most prolific years:
+**Most prolific years:**
 
-2009: 1,431 games
+* 2009: 1,431 games
 
-2008: 1,428 games
+* 2008: 1,428 games
 
 
 
